@@ -1,3 +1,4 @@
+// Package assumerole contains functions related to sts:assumerole
 package assumerole
 
 import (
